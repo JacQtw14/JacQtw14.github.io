@@ -1,0 +1,126 @@
+.forest {
+  position: relative;
+  width: 900px;
+}
+
+
+
+#square {
+  position: absolute;
+  top: 75px;
+  left: 29%;
+	width: 400px;
+	height: 500px;
+	background: white;
+}
+
+.self {
+  position: absolute;
+  top: 25%;
+  left: 28%;
+  border-radius: 50%; 
+	max-width: 45%;
+	margin-top: -45%;
+}
+
+h1 {
+  color: rosybrown;
+  font-family: '27px', fantasy;
+  position: absolute;
+  top: 35%;
+  left: 17%;
+}
+
+p {
+  color: dimgrey; 
+	font-family: 'Caflisch Script Pro', cursive;
+  position: absolute;
+  top: 45%;
+  text-align: center;
+}
+
+.btn {
+	font-size: 16px;
+	padding: 10px;
+	border-radius: 5px;
+	color: #fff;
+	text-decoration: none;
+  background: tan;
+}
+
+.btn-codepen {
+  position: relative;
+  top: 200px;
+  left: 10%;
+}
+
+.btn-safe {
+  position: relative;
+  top: 200px;
+  left: 30%;
+}
+
+@media (min-width: 1050px) {
+  .forest {
+  position: relative;
+  width: 100%;
+}
+
+
+
+#square {
+  position: absolute;
+  top: 150px;
+  left: 9%;
+	width: 810px;
+	height: 300px;
+	background: rosybrown;
+}
+
+.self {
+  position: absolute;
+  top: 125%;
+  left: 2%;
+  border-radius: 50%; 
+	max-width: 25%;
+	margin-top: -45%;
+}
+
+h1 {
+  color: black;
+  font-family: '27px', fantasy;
+  position: absolute;
+  top: 5%;
+  left: 30%;
+}
+
+p {
+  color: white; 
+	font-family: 'Caflisch Script Pro', cursive;
+  position: absolute;
+  top: 25%;
+  left: 30%;
+  text-align: left;
+}
+
+.btn {
+	font-size: 16px;
+	padding: 10px;
+	border-radius: 5px;
+	color: #fff;
+	text-decoration: none;
+  background: tan;
+}
+
+.btn-codepen {
+  position: relative;
+  top: 130px;
+  left: 10%;
+}
+
+.btn-safe {
+  position: relative;
+  top: 130px;
+  left: 30%;
+}
+}
