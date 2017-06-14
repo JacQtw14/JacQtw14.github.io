@@ -1,0 +1,284 @@
+h1 {
+  color: black;
+  font-family: '100px', fantasy;
+  position: absolute;
+  top: 10%;
+  left: 15%;
+}
+
+#square {
+  position: relative;
+  top: 580px;
+  left: 28%;
+	width: 250px;
+	height: 125px;
+	background: rosybrown;
+}
+
+.self {
+  position: absolute;
+  top: 90%;
+  left: 5%; 
+	max-width: 500px;
+	margin-top: -45%;
+}
+
+  h2 {
+    color: black;
+  font-family: '22px', fantasy;
+  position: absolute;
+  top: -5%;
+  left: 15%;
+  }
+
+h3 {
+  color: black; 
+	font-family: 'Caflisch Script Pro', cursive;
+  font-size: 30px;
+  position: absolute;
+  top: 100%;
+  left: -145%;
+  width: 500px;
+  text-align: center;
+}
+  
+h4 {
+  color: grey; 
+	font-family: 'Caflisch Script Pro', cursive;
+  position: absolute;
+  top: 150%;
+  left: -100%;
+  width: 500px;
+  text-align: left;
+}
+
+.btn {
+	font-size: 16px;
+	padding: 10px;
+	border-radius: 5px;
+	color: #fff;
+	text-decoration: none;
+  background: tan;
+}
+
+.btn-jacqobi {
+  position: relative;
+  top: 1000px;
+  left: 0%;
+}
+
+.btn-pat {
+  position: relative;
+  top: 1000px;
+  left: 10%;
+}
+}
+
+.jacqobi {
+  position: absolute;
+  top: 500px;
+  left: 50%; 
+	max-width: 100%;
+	margin-top: 70%;
+}
+
+.pat {
+  position: absolute;
+  top: -700px;
+  left: 5%; 
+	max-width: 50%;
+	margin-top: 70%;
+}
+
+h5 {
+  color: black; 
+	font-family: 'Caflisch Script Pro', cursive;
+  font-size: 30px;
+  position: absolute;
+  top: 850%;
+  left: -130%;
+  width: 500px;
+  text-align: center;
+}
+
+.once {
+  position: relative;
+  max-width: 100px;
+  top: 1700px;
+  left: -200%;
+}
+
+p {
+  color: grey; 
+	font-family: 'Caflisch Script Pro', cursive;
+  position: absolute;
+  top: 900%;
+  left: -130%;
+  width: 500px;
+  text-align: center;
+}
+
+.daughter {
+  position: relative;
+  max-width: 500px;
+  top: 1500px;
+  left: -175%;
+}
+
+.blood {
+  position: relative;
+  max-width: 500px;
+  top: 1220px;
+  left: -100%;
+}
+
+.monsters {
+  position: relative;
+  max-width: 500px;
+  top: 950px;
+  left: -20%;
+}
+
+@media (min-width: 1800px) {
+
+
+h1 {
+  color: black;
+  font-family: '100px', fantasy;
+  position: absolute;
+  top:10%;
+  left: 45%;
+}
+
+#square {
+  position: relative;
+  top: 500px;
+  left: 70%;
+	width: 350px;
+	height: 175px;
+	background: rosybrown;
+}
+
+.self {
+  position: absolute;
+  top: 150%;
+  left: 30%; 
+	max-width: 1500px;
+	margin-top: -45%;
+}
+
+  h2 {
+    color: black;
+  font-family: '22px', fantasy;
+  position: absolute;
+  top: 10%;
+  left: 15%;
+  }
+
+h3 {
+  color: black; 
+	font-family: 'Caflisch Script Pro', cursive;
+  font-size: 30px;
+  position: absolute;
+  top: 350%;
+  left: -130%;
+  width: 500px;
+  text-align: center;
+}
+  
+h4 {
+  color: grey; 
+	font-family: 'Caflisch Script Pro', cursive;
+  position: absolute;
+  top: 400%;
+  left: -130%;
+  width: 500px;
+  text-align: center;
+}
+
+.btn {
+	font-size: 16px;
+	padding: 10px;
+	border-radius: 5px;
+	color: #fff;
+	text-decoration: none;
+  background: tan;
+}
+
+.btn-jacqobi {
+  position: relative;
+  top: 1400px;
+  left:-200%;
+}
+
+.btn-pat {
+  position: relative;
+  top: 1400px;
+  left: -72%;
+}
+}
+
+.jacqobi {
+  position: absolute;
+  top: 700px;
+  left: -200%; 
+	max-width: 100%;
+	margin-top: 70%;
+}
+
+.pat {
+  position: absolute;
+  top: 700px;
+  left: -50%; 
+	max-width: 100%;
+	margin-top: 70%;
+}
+
+h5 {
+  color: black; 
+	font-family: 'Caflisch Script Pro', cursive;
+  font-size: 30px;
+  position: absolute;
+  top: 850%;
+  left: -130%;
+  width: 500px;
+  text-align: center;
+}
+
+.once {
+  position: relative;
+  max-width: 1000px;
+  top: 1700px;
+  left: -200%;
+}
+
+p {
+  color: grey; 
+	font-family: 'Caflisch Script Pro', cursive;
+  position: absolute;
+  top: 900%;
+  left: -130%;
+  width: 500px;
+  text-align: center;
+}
+
+.daughter {
+  position: relative;
+  max-width: 500px;
+  top: 1500px;
+  left: -175%;
+}
+
+.blood {
+  position: relative;
+  max-width: 500px;
+  top: 1220px;
+  left: -100%;
+}
+
+.monsters {
+  position: relative;
+  max-width: 500px;
+  top: 950px;
+  left: -20%;
+}
